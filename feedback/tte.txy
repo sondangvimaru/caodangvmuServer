@@ -1,0 +1,1 @@
+INSERT INTO tbl_feedback(msv,content, from_user, type, stt, time) VALUES ('9807','aaaaaaa',1,'text','2','2020-07-08 09:14:55')
